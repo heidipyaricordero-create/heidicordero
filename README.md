@@ -1,4 +1,4 @@
-# Hallo, ich bin [Heidi]! 👋
+# Hallo, ich bin Heidi! 👋
 
 ## 🚀 Angehender QA-Engineer & Test-Automatisierer
 Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Masterschool Berlin** (Voraussichtlicher Abschluss: Mai 2026). 
@@ -28,12 +28,12 @@ Mein Fokus liegt darauf, Software durch automatisierte Tests robuster und zuverl
 ---
 
 ### 📊 GitHub Statistiken
-![Dein GitHub Stats](https://github-readme-stats.vercel.app/api?username=[DEIN-BENUTZERNAME]&show_icons=true&theme=tokyonight)
+!GitHub Stats(https://github-readme-stats.vercel.app/api?username=heidipyaricorder-create&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 📫 Kontaktiere mich:
-- 💼 [Dein LinkedIn Profil]
-- 📧 [Deine E-Mail Adresse]
+- 💼 https://www.linkedin.com/in/heidi-pyari-cordero-824572270/
+- 📧 heidi.pyari.cordero@gmai.com
 
 *"Quality is not an act, it is a habit."*
