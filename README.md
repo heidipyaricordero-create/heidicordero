@@ -1,8 +1,7 @@
 # Hallo, ich bin Heidi! 👋
 
 ## 🚀 Angehender QA-Engineer & Test-Automatisierer
-Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Masterschool Berlin** (Voraussichtlicher Abschluss: Mai 2026). 
-Mein Fokus liegt darauf, Software durch automatisierte Tests robuster und zuverlässiger zu machen.
+Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Masterschool Berlin** (Voraussichtlicher Abschluss: Mai 2026). Mein Fokus liegt darauf, Software durch automatisierte Tests robuster und zuverlässiger zu machen.
 
 ---
 
@@ -28,8 +27,8 @@ Mein Fokus liegt darauf, Software durch automatisierte Tests robuster und zuverl
 ---
 
 ### 📊 GitHub Statistiken
-!GitHub Stats(https://github-readme-stats.vercel.app/api?username=heidipyaricorder-create&show_icons=true&theme=tokyonight)
-
+!GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=heidipyaricordero-create&show_icons=true&theme=tokyonight)
 ---
 
 ### 📫 Kontaktiere mich:
