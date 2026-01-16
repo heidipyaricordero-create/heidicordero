@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="dein-banner.png" width="100%">
+</p>
+
 # Hallo, ich bin Heidi! 👋
 
 ## Angehender QA-Engineer & Test-Automatisierer
