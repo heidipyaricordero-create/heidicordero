@@ -2,6 +2,7 @@
 
 ## Angehender QA-Engineer & Test-Automatisierer
 Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Masterschool Berlin** (Voraussichtlicher Abschluss: Mai 2026). Mein Fokus liegt darauf, Software durch automatisierte Tests robuster und zuverlässiger zu machen.
+<img width="2560" height="1440" alt="Frohe Weihnachten und lichtvolle Tage gewünscht (1)" src="https://github.com/user-attachments/assets/76968a1e-f263-4f42-9778-0984059f60a3" />
 
 ---
 
