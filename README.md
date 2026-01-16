@@ -1,11 +1,11 @@
 # Hallo, ich bin Heidi! 👋
 
-## 🚀 Angehender QA-Engineer & Test-Automatisierer
+## Angehender QA-Engineer & Test-Automatisierer
 Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Masterschool Berlin** (Voraussichtlicher Abschluss: Mai 2026). Mein Fokus liegt darauf, Software durch automatisierte Tests robuster und zuverlässiger zu machen.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Programmiersprachen & Web:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,7 +18,7 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 
 ---
 
-### 🎓 Bildungsweg & Meilensteine
+### Bildungsweg & Meilensteine
 
 - 🏫 **Masterschool Berlin** | Ausbildung zum QA-Engineer (2024 - Mai 2026)
 - 🧪 Fokus auf: Test Automation, Bug Reporting, Selenium & Python Scripting.
@@ -35,3 +35,5 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 - 📧 heidi.pyari.cordero@gmai.com
 
 *"Quality is not an act, it is a habit."*
+---
+<p align="right">(<a href="#top">nach oben scrollen ↑</a>)</p>
