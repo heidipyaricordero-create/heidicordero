@@ -15,3 +15,35 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 ---
 
 ### Tech Stack
+**Programmiersprachen & Web:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Datenbanken:**
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### Bildungsweg & Meilensteine
+
+- 🏫 **Masterschool Berlin** | Ausbildung zum QA-Engineer (2024 - Mai 2026)
+- 🧪 Fokus auf: Test Automation, Bug Reporting, Selenium & Python Scripting.
+- 📊 Beherrschung von SQL für Datenbank-Tests.
+
+---
+
+### 📊 GitHub Statistiken
+![GitHub Stats](https://github-readme-stats-one-five.vercel.app/api?username=heidipyaricordero-create&show_icons=true&theme=tokyonight&border_radius=10)
+
+---
+
+### 📫 Kontaktiere mich:
+- 🌍 **Portfolio:** [heidipyaricordero.netlify.app](https://heidipyaricordero.netlify.app/)
+- 💼 **LinkedIn:** [Heidi Pyari Cordero](https://www.linkedin.com/in/heidi-pyari-cordero-824572270/)
+- 📧 **Email:** heidi.pyari.cordero@gmail.com
+
+*"Quality is not an act, it is a habit."*
+---
+<p align="right">(<a href="#top">nach oben scrollen ↑</a>)</p>
