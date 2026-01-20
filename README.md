@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="dein-banner.png" width="100%">
+  <img src="https://github.com/user-attachments/assets/76968a1e-f263-4f42-9778-0984059f60a3" width="100%">
 </p>
 
 # Hallo, ich bin Heidi! 👋
 
 ## Angehender QA-Engineer & Test-Automatisierer
 Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Masterschool Berlin** (Voraussichtlicher Abschluss: Mai 2026). Mein Fokus liegt darauf, Software durch automatisierte Tests robuster und zuverlässiger zu machen.
-<img width="2560" height="1440" alt="Frohe Weihnachten und lichtvolle Tage gewünscht (1)" src="https://github.com/user-attachments/assets/76968a1e-f263-4f42-9778-0984059f60a3" />
+
+---
+
+### 🌐 Portfolio & Projekte
+[![Portfolio](https://img.shields.io/badge/Mein_Portfolio-Besuchen-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://heidipyaricordero.netlify.app/)
 
 ---
 
@@ -32,12 +36,14 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 ---
 
 ### 📊 GitHub Statistiken
-!GitHub Stats ![GitHub Stats](https://github-readme-stats-one-five.vercel.app/api?username=heidipyaricordero-create&show_icons=true&theme=tokyonight&border_radius=10)
+![GitHub Stats](https://github-readme-stats-one-five.vercel.app/api?username=heidipyaricordero-create&show_icons=true&theme=tokyonight&border_radius=10)
+
 ---
 
 ### 📫 Kontaktiere mich:
-- 💼 https://www.linkedin.com/in/heidi-pyari-cordero-824572270/
-- 📧 heidi.pyari.cordero@gmai.com
+- 🌍 **Portfolio:** [heidipyaricordero.netlify.app](https://heidipyaricordero.netlify.app/)
+- 💼 **LinkedIn:** [Heidi Pyari Cordero](https://www.linkedin.com/in/heidi-pyari-cordero-824572270/)
+- 📧 **Email:** heidi.pyari.cordero@gmail.com
 
 *"Quality is not an act, it is a habit."*
 ---
