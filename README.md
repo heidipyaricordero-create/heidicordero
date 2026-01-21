@@ -24,6 +24,7 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 **QA & Testing Skills:**
 ![Manual Testing](https://img.shields.io/badge/Testing-Manual_Testing-green?style=flat-square&logo=testrail)
 ![Bug Reporting](https://img.shields.io/badge/QA-Bug_Reporting-red?style=flat-square&logo=jira)
