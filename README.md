@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ebaae13c-2129-43e6-a431-5e026e6ad4c8" 
-       style="width: 80%; height: 150px; object-fit: cover; object-position: center;" 
-       alt="Heidi Pyari Cordero">
+<img width="1200" height="300" alt="Heidi Pyari Cordero (1200 x 300 px)" src="https://github.com/user-attachments/assets/e4fac098-5ef7-4d08-9d4c-cb543447815b" />
 
 </p>
 
@@ -52,3 +50,4 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 *"Quality is not an act, it is a habit."*
 ---
 <p align="right">(<a href="#top">nach oben scrollen ↑</a>)</p>
+
