@@ -39,7 +39,6 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 ---
 
 ### 📊 GitHub Statistiken
-### 📊 GitHub Statistiken
 ![Heidis GitHub Stats](https://github-readme-stats.vercel.app/api?username=heidipyaricordero-create&show_icons=true&theme=tokyonight&border_radius=10)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heidipyaricordero-create&layout=compact&theme=tokyonight&border_radius=10)
 
