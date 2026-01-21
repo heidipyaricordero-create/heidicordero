@@ -44,7 +44,7 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 
 ### 📫 Kontaktiere mich:
 - 🌍 **Portfolio:** [heidipyaricordero.netlify.app](https://heidipyaricordero.netlify.app/)
-- 💼 **LinkedIn:** [Heidi Pyari Cordero](https://www.linkedin.com/in/heidi-pyari-cordero-824572270/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heidi_Pyari_Cordero-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heidi-pyari-cordero-824572270/)
 - 📧 **Email:** heidi.pyari.cordero@gmail.com
 
 *"Quality is not an act, it is a habit."*
