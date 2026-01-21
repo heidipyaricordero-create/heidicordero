@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ebaae13c-2129-43e6-a431-5e026e6ad4c8" style="max-height: 250px; width: auto;" alt="Heidi Pyari Cordero">
+  <img src="https://github.com/user-attachments/assets/ebaae13c-2129-43e6-a431-5e026e6ad4c8" 
+       style="width: 80%; height: 150px; object-fit: cover; object-position: center;" 
+       alt="Heidi Pyari Cordero">
+
 </p>
 
 </p>
