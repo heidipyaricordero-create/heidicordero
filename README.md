@@ -1,4 +1,4 @@
-<p align="center"><img width="2560" height="1440" alt="Heidi Pyari Cordero" src="https://github.com/user-attachments/assets/ebaae13c-2129-43e6-a431-5e026e6ad4c8" />
+<p align="center"><img width="2560" alt="Heidi Pyari Cordero" src="https://github.com/user-attachments/assets/ebaae13c-2129-43e6-a431-5e026e6ad4c8" />
 
 </p>
 
