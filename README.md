@@ -38,6 +38,7 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 
 ### Bildungsweg & Meilensteine
 
+![ISTQB](https://img.shields.io/badge/ISTQB-In_Preparation-orange?style=for-the-badge&logo=istqb)
 - 🏫 **Masterschool Berlin** | Ausbildung zum QA-Engineer (2024 - Mai 2026)
 - 🧪 Fokus auf: Test Automation, Bug Reporting, Selenium & Python Scripting.
 - 📊 Beherrschung von SQL für Datenbank-Tests.
