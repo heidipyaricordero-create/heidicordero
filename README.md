@@ -21,7 +21,6 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 ### Tech Stack
 **Programmiersprachen & Web:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -39,7 +38,7 @@ Ich befinde mich aktuell in der Ausbildung zum **QA-Engineer** an der **Mastersc
 ### Bildungsweg & Meilensteine
 
 ![ISTQB](https://img.shields.io/badge/ISTQB-In_Preparation-orange?style=for-the-badge&logo=istqb)
-- 🏫 **Masterschool Berlin** | Ausbildung zum QA-Engineer (2024 - Mai 2026)
+- 🏫 **Masterschool Berlin** | Ausbildung zum QA-Engineer (2025 - Mai 2026)
 - 🧪 Fokus auf: Test Automation, Bug Reporting, Selenium & Python Scripting.
 - 📊 Beherrschung von SQL für Datenbank-Tests.
 
